@@ -1,0 +1,5 @@
+﻿  laba7oop_ura.cpp
+C:\Users\UserHome\source\repos\laba7oop_ura\laba7oop_ura\MultiTypeContainer.h(43,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\laba7oop_ura\laba7oop_ura\MultiTypeContainer.h(53,9): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\UserHome\source\repos\laba7oop_ura\laba7oop_ura\MultiTypeContainer.h(63,9): warning C4984: 'if constexpr' is a C++17 language extension
+  laba7oop_ura.vcxproj -> C:\Users\UserHome\source\repos\laba7oop_ura\x64\Debug\laba7oop_ura.exe
